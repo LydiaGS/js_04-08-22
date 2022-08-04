@@ -1,0 +1,8 @@
+{
+    "name": "amandine",
+    "version": "1.0.0",
+    
+    "scripts": {
+        "start" : "node ./public/javascripts/index.js"
+    }
+}
